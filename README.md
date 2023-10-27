@@ -1,2 +1,2 @@
-#Project: Lading Page 
-##The Odin Project: Foundations Course
+# Project: Lading Page 
+## The Odin Project: Foundations Course
